@@ -193,7 +193,7 @@ function(chart) {
 						<td><%=telp.replaceAll("[^a-zA-Z0-9 :-]", "_")%></td>
 					</tr>
 					<tr>
-						<td width="60%">Sisa Kuota</td>
+						<td width="60%">Sisa Kuota lalalalalala</td>
 						<td width="5%">:</td>
 						<td><%=sisa.replaceAll("[^a-zA-Z0-9 :-]", "_")%> Mb</td>
 					</tr>
